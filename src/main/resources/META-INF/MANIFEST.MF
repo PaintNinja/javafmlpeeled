@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: javafmlpeeled
+Specification-Vendor: Paint_Ninja
+Specification-Version: 1
+Implementation-Title: javafmlpeeled
+Implementation-Version: 39
+Implementation-Vendor: Paint_Ninja
+Implementation-Timestamp: 2021-12-30T15:17:20+0000
+FMLModType: LANGPROVIDER
+
